@@ -13,7 +13,7 @@ and G1(w1,a2,b2);
 and G2(w2,a2,Ci);
 and G3(w3,b2,Ci);
 or G4(Co,w1,w2,w3);
-xor G5(w4,a1,b2);
+ xor G5(w4,a2,b2);
 xor G6(S,w4,Ci);
 endmodule
 
